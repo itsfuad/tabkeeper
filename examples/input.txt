@@ -1,0 +1,3 @@
+Search|https://example.com
+Docs|https://docs.example.org
+Another|https://example.com
